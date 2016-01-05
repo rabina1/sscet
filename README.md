@@ -1,0 +1,2 @@
+# sscet
+stc management software
